@@ -7,12 +7,6 @@
 - 🥅 2021 Goals: Make my organisations projects Open Source 
 - ⚡ Fun fact: I like to draw and play with my kids
 
-### Spotify Playing 🎧
-
-<img src="https://now-playing-elefsinian.vercel.app/api/spotify-playing" alt="elefsinian Spotify Playing" width="200" /> (https://open.spotify.com/user/elefsinian?si=KstVuP3FRQ2dN57tGD7Ntgb)
-
-
-<br />
 
 ### Languages and Tools:
 
