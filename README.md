@@ -33,11 +33,3 @@
 
 
 ---
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Nikolaos's GitHub Stats" src="https://github-readme-stats.gkionis.vercel.app/api?username=gkionis&show_icons=true&hide_border=true" />
-
-</details>
