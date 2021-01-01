@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Ruby on Rails 🤣
 - 🤔 I’m looking to collaborate less with other humans 👽
-- 🥅 2021 Goals: Make my organisations projects Open Source 
+- 🥅 2021 Goals: Make my organisation's projects Open Source 
 - ⚡ Fun fact: I like to play among us with my kids and draw pixelart 🥸
 
 
