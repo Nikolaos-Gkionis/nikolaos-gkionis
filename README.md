@@ -3,9 +3,9 @@
 ## I'm a Husband, Father of 10, Designerd, and Technologist!!
 
 - 🌱 I’m currently learning Ruby on Rails 🤣
-- 🤔 I’m looking to collaborate with other designers
+- 🤔 I’m looking to collaborate less with other humans 👽
 - 🥅 2021 Goals: Make my organisations projects Open Source 
-- ⚡ Fun fact: I like to draw and play with my kids
+- ⚡ Fun fact: I like to play among us with my kids and draw pixelart 🥸
 
 
 ### Languages and Tools:
