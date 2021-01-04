@@ -10,14 +10,14 @@
 
 ### Languages and Tools:
 
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" />
+<img align="left" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/adobexd.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/figma.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/node.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/node-dot-js.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" />
 
