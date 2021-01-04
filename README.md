@@ -24,5 +24,7 @@
 <br />
 <br />
 
+[![Spotify](https://novatorem-gmkvnzryg.vercel.app)] 
+
 
 ---
