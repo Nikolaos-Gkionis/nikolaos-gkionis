@@ -24,6 +24,6 @@
 <br />
 <br />
 
-[<img scr="https://novatorem.gkionis.vercel.app/api/spotify-playing" alt="🎧 Spotify Playing Now 🎧" width="350" />](https://open.spotify.com/user/elefsinian)
+[<img scr="https://novatorem.gkionis.vercel.app/api/spotify-playing" alt="🎧 Spotify Playing Now 🎧" width="250" />](https://open.spotify.com/user/elefsinian)
 
 ---
