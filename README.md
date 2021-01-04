@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-<img align="left" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/adobexd.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/figma.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
