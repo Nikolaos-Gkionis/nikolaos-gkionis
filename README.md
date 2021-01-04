@@ -24,7 +24,11 @@
 <br />
 <br />
 
-[![Spotify](https://novatorem-gmkvnzryg.vercel.app)] 
+### Spotify Playing 🎧
 
+<img scr="https://novatorem.gkionis.vercel.app/api/spotify-playing" alt="Spotify Playing Now" width="350" />
+
+<br />
+<br />
 
 ---
