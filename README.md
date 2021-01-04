@@ -26,7 +26,8 @@
 
 ### Spotify Playing 🎧
 
-[<img scr="https://novatorem.gkionis.vercel.app/api/spotify-playing" alt="Spotify Playing Now" width="350" />](https://open.spotify.com/user/elefsinian)
+<img scr="https://novatorem.gkionis.vercel.app/api/spotify-playing" alt="Spotify Playing Now" width="350" />(https://open.spotify.com/user/elefsinian)
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spotify/spotify.png" />
 
 <br />
 <br />
