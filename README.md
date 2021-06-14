@@ -3,7 +3,7 @@
 ## I'm a Husband, Father of 10, Designerd, and Technologist!!
 
 - 🌱 I’m currently learning Ruby on Rails 🤣
-- 🤔 I’m looking to collaborate less with other humans 👽 waiting on the aliens ate here announcement 
+- 🤔 I’m looking to collaborate less with other humans 👽 waiting on the aliens are here announcement 
 - 🥅 2021 Goals: Work only 40 hours a week 💣
 - ⚡ Fun fact: I like to play with my children and paint walls 🥸
 - 💻 To blog or not to blog, this is the question. And if I do how can I Be free to write my thoughts without 😱?
