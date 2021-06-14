@@ -3,9 +3,10 @@
 ## I'm a Husband, Father of 10, Designerd, and Technologist!!
 
 - 🌱 I’m currently learning Ruby on Rails 🤣
-- 🤔 I’m looking to collaborate less with other humans 👽
-- 🥅 2021 Goals: Make my organisation's projects Open Source 
-- ⚡ Fun fact: I like to play among us with my kids and draw pixelart 🥸
+- 🤔 I’m looking to collaborate less with other humans 👽 waiting on the aliens ate here announcement 
+- 🥅 2021 Goals: Work only 40 hours a week 💣
+- ⚡ Fun fact: I like to play with my children and paint walls 🥸
+- 💻 To blog or not to blog, this is the question. And if I do how can I Be free to write my thoughts without 😱?
 
 
 ### Languages and Tools:
