@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning how to learn 🤣
 - 🤔 I’m looking to collaborate less with other humans 👽 
-- 🥅 2025 Goal: Work only 40 hours a week 💣 Maybe leave the UK....
+- 🥅 2026 Goal: Work only 40 hours a week 💣 
 - ⚡ Fun fact: I like to play with my children and paint walls 🥸
 
 
